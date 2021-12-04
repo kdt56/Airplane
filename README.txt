@@ -1,5 +1,5 @@
 **GitHub**
-
+https://github.com/kdt56/Airplane
 
 **CLASS DESCRIPTION**
 The Airplane class can be used to estimate flight times to Japan depending on the speed of the plane. The arguments include position and speed, which are created upon initialization of the class.
